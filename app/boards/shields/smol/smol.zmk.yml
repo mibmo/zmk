@@ -1,0 +1,8 @@
+file_format: "1"
+id: smol
+name: Smol
+type: shield
+url: https://github.com/mibmo/kbd
+requires: [pro_micro]
+features:
+  - keys
