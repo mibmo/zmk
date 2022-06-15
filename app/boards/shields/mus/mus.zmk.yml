@@ -1,0 +1,15 @@
+file_format: "1"
+id: mus
+name: Mus
+type: shield
+url: https://splitkb.com/products/mus-pcb-kit
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+  - encoder
+  - underglow
+siblings:
+  - mus_left
+  - mus_right
